@@ -1,9 +1,0 @@
-Flask
-Flask_Cors
-Flask_RESTful
-numpy
-opencv_python
-pandas
-Pillow
-tensorflow
-gunicorn
